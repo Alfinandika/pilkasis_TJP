@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_yakin" value="name:id;datatype:int,name:nomor_urut;datatype:int,name:nama_ketua;datatype:string,name:nama_wakil;datatype:string,name:kelas_ketua;datatype:string,name:kelas_wakil;datatype:string,name:foto;datatype:string,name:suara;datatype:int" />
+</info>
